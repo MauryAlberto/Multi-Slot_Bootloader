@@ -1,0 +1,8 @@
+../Src/bsp.c:17:6:led_init	1
+../Src/bsp.c:27:6:led_toggle	1
+../Src/bsp.c:33:6:led_on	1
+../Src/bsp.c:39:6:led_off	1
+../Src/bsp.c:45:6:button_init	1
+../Src/bsp.c:60:6:get_btn_state	2
+../Src/bsp.c:72:6:get_enter_btn_state	2
+../Src/bsp.c:85:9:count_btn_presses	3
